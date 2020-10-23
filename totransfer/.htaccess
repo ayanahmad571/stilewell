@@ -1,0 +1,2 @@
+# Make PHP code look like unknown types
+AddType application/x-httpd-php .muncircuit 
